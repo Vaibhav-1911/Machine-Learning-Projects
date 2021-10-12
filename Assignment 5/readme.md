@@ -26,3 +26,10 @@
 #### - Older people who are also smokers, have a higher insurance charge
 #### - There is no significant difference between insurance charges between males and females. However, it must be noted that people with 5 children have significantly less insurance charges when compared to people with 0-4 children
 #### - People who are obese and also smoke have very expensive insurance charges on an average. Also, smokers in general have higher insurance charges as compared to non-smokers
+
+## Regression Results
+#### - Factors like age and smoker are the strongest determinants of the insurance charges one incurs
+#### - Surprisingly, in terms of location, the north sector has more power in determination of the insurance charges as compared to the southern sector.
+
+## Predictions Using this Dataset
+#### - We predicted the insurance charges based on various factors with 77% accuracy using Sklearn Linear Regression Model
